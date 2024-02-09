@@ -3,11 +3,11 @@ This is a simple developer landing page designed to showcase your skills and pro
 
 # Table of Contents
 
-  - Description
-  - Project Video
-  - Technologies
-  - Responsive Design
-  - Website Link
+  - [Description](#Description)
+  - [Project Video](#Project-Video)
+  - [Technologies](#Technologies)
+  - [Responsive Design](#ResponsiveDesign)
+  - [Website Link](#WebsiteLink)
 
 # Description
 The landing page consists of several sections:
