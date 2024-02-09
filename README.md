@@ -6,8 +6,8 @@ This is a simple developer landing page designed to showcase your skills and pro
   - [Description](#Description)
   - [Project Video](#Project-Video)
   - [Technologies](#Technologies)
-  - [Responsive Design](#ResponsiveDesign)
-  - [Website Link](#WebsiteLink)
+  - [Responsive Design](#Responsive-Design)
+  - [Website Link](#Website-Link)
 
 # Description
 The landing page consists of several sections:
@@ -17,7 +17,7 @@ The landing page consists of several sections:
   - Bottom Section: Contains sections for contact information and an about me section.
   - Footer: Displays the developer's name.
 
-# Project Video
+# Project-Video
 
 https://github.com/SyedSabee/Full-Stack-Developer/assets/145167243/e5bddc86-c015-4f6d-9e9f-c1226dbb9b10
 
@@ -26,8 +26,8 @@ https://github.com/SyedSabee/Full-Stack-Developer/assets/145167243/e5bddc86-c015
   - CSS
   - Google Fonts (Roboto)
 
-# Responsive Design
+# Responsive-Design
 The landing page is responsive and adjusts its layout for various screen sizes. Below 786px width, the layout changes to a more compact version for better mobile viewing.
 
-# Website Link
+# Website-Link
 [Developer Landing Page Website](https://syedsabee.github.io/Full-Stack-Developer/)
